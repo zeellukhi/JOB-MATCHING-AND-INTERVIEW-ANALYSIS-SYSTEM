@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+python-docx
+ffmpeg-python
+transformers
+sentence-transformers
+Pinecone
+pinecone-client
+google-generativeai
+python-dotenv
+python-docx
