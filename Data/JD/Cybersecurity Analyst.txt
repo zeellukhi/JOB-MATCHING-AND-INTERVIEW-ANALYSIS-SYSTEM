@@ -1,0 +1,22 @@
+Job Title: Cybersecurity Analyst
+Location: San Francisco, CA
+Experience: Minimum 4 years of experience in cybersecurity.
+
+We are hiring a Cybersecurity Analyst to ensure the protection of our network and data from cyber threats. Expertise in security tools such as Kali Linux, Wireshark, and Metasploit is required. You will also be responsible for implementing and managing security protocols.
+
+Skills:
+- Kali Linux
+- Wireshark
+- Metasploit
+- Network Security
+
+Education: Bachelor’s in Information Security or related field.
+
+Certifications:
+- Certified Ethical Hacker (CEH)
+- CISSP
+
+Technologies:
+- Cyber Security
+- Information Security
+- Network Security

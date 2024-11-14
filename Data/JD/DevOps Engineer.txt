@@ -1,0 +1,23 @@
+Job Title: DevOps Engineer
+Location: San Diego, CA
+Experience: Minimum 4 years of experience in DevOps.
+
+Looking for a DevOps Engineer to streamline our CI/CD pipeline and infrastructure automation. The role requires expertise in tools such as Jenkins, Docker, and Kubernetes. Experience in AWS or Azure cloud services is also essential.
+
+Skills:
+- Jenkins
+- Docker
+- Kubernetes
+- AWS
+- Azure
+
+Education: Bachelor’s in Computer Science or equivalent.
+
+Certifications:
+- Certified Kubernetes Administrator
+- AWS Certified DevOps Engineer
+
+Technologies:
+- DevOps
+- Cloud Computing
+- Infrastructure as Code

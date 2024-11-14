@@ -1,0 +1,20 @@
+Job Title: Web Developer
+Location: Remote
+Experience: Minimum 2 years of experience in web development.
+
+We are looking for a talented Web Developer with experience in both front-end and back-end technologies. Knowledge of React, Node.js, and SQL is required, as well as familiarity with REST APIs and version control using Git.
+
+Skills:
+- React
+- Node.js
+- SQL
+- Git
+
+Education: Bachelor’s in Web Development or related field.
+
+Certifications:
+- React Certification (Udemy)
+
+Technologies:
+- Web Development
+- Full Stack Development

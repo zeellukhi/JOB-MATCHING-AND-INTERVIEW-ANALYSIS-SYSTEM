@@ -1,0 +1,24 @@
+Job Title: Full Stack Developer
+Location: Los Angeles, CA
+Experience: Minimum 3 years of experience in full stack development.
+
+Looking for a Full Stack Developer with expertise in both front-end (JavaScript, HTML, CSS) and back-end (Python, Node.js). The candidate should be proficient in database technologies such as PostgreSQL, MongoDB, and MySQL. Experience in cloud-based deployment is a plus.
+
+Skills:
+- JavaScript
+- Python
+- Node.js
+- PostgreSQL
+- MongoDB
+- HTML/CSS
+
+Education: Bachelor’s in Computer Science or equivalent.
+
+Certifications:
+- JavaScript certification
+- PostgreSQL Certified Professional
+
+Technologies:
+- Web Development
+- Full Stack Development
+- Cloud Computing

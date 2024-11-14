@@ -1,0 +1,22 @@
+Job Title: Software Engineer
+Location: New York, NY
+Experience: Minimum 3 years of experience in software development.
+
+We are looking for a Software Engineer with a strong background in Python, Java, and AWS. The ideal candidate should have experience working with frameworks such as Django, Flask, and React. Familiarity with cloud services such as AWS or Azure is required. 
+
+Skills:
+- Python
+- Java
+- AWS
+- Django
+- React
+
+Education: Bachelor’s in Computer Science or related field.
+
+Certifications:
+- AWS Certified Developer
+- Microsoft Certified: Azure Developer Associate
+
+Technologies:
+- Cloud Computing
+- Software Development

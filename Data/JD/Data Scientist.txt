@@ -1,0 +1,23 @@
+Job Title: Data Scientist
+Location: Remote
+Experience: Minimum 5 years of experience in data science.
+
+We are seeking an experienced Data Scientist with hands-on experience in machine learning models using Python, Scikit-learn, and TensorFlow. Proficiency in data manipulation and visualization using Pandas and Matplotlib is essential. Experience in deploying models on cloud platforms such as Google Cloud is a plus.
+
+Skills:
+- Python
+- Scikit-learn
+- TensorFlow
+- Pandas
+- Matplotlib
+
+Education: Master’s in Data Science or related field.
+
+Certifications:
+- Google Cloud Certified - Professional Data Engineer
+- Data Science certification (Coursera)
+
+Technologies:
+- Machine Learning
+- Data Science
+- Cloud Computing

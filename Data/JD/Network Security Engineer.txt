@@ -1,0 +1,21 @@
+Job Title: Network Security Engineer
+Location: Austin, TX
+Experience: Minimum 5 years of experience in network security.
+
+The candidate will be responsible for managing the network security infrastructure, including firewalls, intrusion detection systems (IDS), and VPNs. Experience with Linux and network protocols is crucial.
+
+Skills:
+- Linux
+- Network Security
+- Firewalls
+- IDS/IPS
+
+Education: Bachelor’s in Information Technology or equivalent.
+
+Certifications:
+- CompTIA Security+
+- CCNA (Cisco Certified Network Associate)
+
+Technologies:
+- Cyber Security
+- Network Security

@@ -1,0 +1,23 @@
+Job Title: Cloud Architect
+Location: Seattle, WA
+Experience: Minimum 7 years of experience in cloud architecture.
+
+The ideal candidate will have expertise in cloud solutions, particularly AWS and Azure. You should be experienced in designing and deploying highly scalable cloud infrastructures using Kubernetes, Docker, and Terraform. Knowledge of containerization technologies is essential.
+
+Skills:
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Terraform
+
+Education: Bachelor’s in Cloud Computing or equivalent.
+
+Certifications:
+- AWS Certified Solutions Architect
+- Azure Solutions Architect Expert
+
+Technologies:
+- Cloud Computing
+- DevOps
+- Infrastructure as Code

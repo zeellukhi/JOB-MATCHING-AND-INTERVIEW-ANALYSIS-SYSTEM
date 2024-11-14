@@ -1,0 +1,21 @@
+Job Title: Data Engineer
+Location: Boston, MA
+Experience: Minimum 4 years of experience in data engineering.
+
+We are seeking a Data Engineer with experience in building data pipelines using tools like Apache Spark and Hadoop. Familiarity with Big Data technologies and databases such as MySQL, PostgreSQL, and MongoDB is required.
+
+Skills:
+- Apache Spark
+- Hadoop
+- MySQL
+- PostgreSQL
+- MongoDB
+
+Education: Master’s in Data Engineering or related field.
+
+Certifications:
+- Google Cloud Certified - Professional Data Engineer
+
+Technologies:
+- Data Engineering
+- Big Data
